@@ -1,4 +1,4 @@
-# Hi, I’m Zachary C
+# Hi, I’m Zachary Crespin
 
 I'm A Frontend Developer
 ... that's still trying to figure out how the backend works.
