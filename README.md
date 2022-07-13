@@ -3,10 +3,10 @@
 I'm A Frontend Developer
 ... that's still trying to figure out how the backend works.
 
-![github overview](https://raw.githubusercontent.com/ZacharyCrespin/ZacharyCrespin/output/generated/overview.svg "github overview")
-![top languages](https://raw.githubusercontent.com/ZacharyCrespin/ZacharyCrespin/output/generated/languages.svg "top languages")
+[![github overview](https://raw.githubusercontent.com/ZacharyCrespin/ZacharyCrespin/output/generated/overview.svg )](https://github.com/jstrieb/github-stats)
+[![top languages](https://raw.githubusercontent.com/ZacharyCrespin/ZacharyCrespin/output/generated/languages.svg)](https://github.com/jstrieb/github-stats)
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZacharyCrespin&theme=dark&hide_border=true&background=00000000&border=8b8b8b&stroke=8b8b8b&ring=4894e0&fire=4894e0&currStreakNum=4894e0&sideNums=8b8b8b&currStreakLabel=8b8b8b&sideLabels=8b8b8b&dates=8b8b8b)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZacharyCrespin&theme=dark&hide_border=true&background=00000000&border=878787&stroke=878787&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 Cheak out my website [zacharyc.site](https://zacharyc.site)
 
