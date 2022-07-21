@@ -12,9 +12,9 @@ Cheak out my website [zacharyc.site](https://zacharyc.site)
 
 Latest Codeing Projects
 <!-- BLOG-POST-LIST:START -->
-- [Upcoming Launches](https://zacharyc.site/code/upcoming-launches)
-- [Weather](https://zacharyc.site/code/weather)
+- [Christmas Countdown](https://codepen.io/ZacharyCrespin/pen/vYRORdP)
+- [Upcoming Launches](https://codepen.io/ZacharyCrespin/pen/qBoWjPe)
+- [Weather](https://codepen.io/ZacharyCrespin/pen/gOeYRXL)
 - [Free Periodic Tables](https://periodictables.zacharyc.site)
 - [Wordle Hacker](https://github.com/ZacharyCrespin/wordle-hacker-chrome-extension)
-- [Guess The Number](https://zacharyc.site/code/guess-the-number)
 <!-- BLOG-POST-LIST:END -->
