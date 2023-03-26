@@ -1,5 +1,5 @@
 # Hi, I’m Zachary Crespin
-Cheak out my website [zacharyc.site](https://zacharyc.site)
+Cheak out my website: [zacharyc.site](https://zacharyc.site)
 
 <details>
 <summary>Github Stats</summary>

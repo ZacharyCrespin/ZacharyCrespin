@@ -28,10 +28,15 @@ table {
 }
 
 th {
-  padding: 0.5em;
-  padding-top: 0;
+  padding: 0;
   text-align: left;
-  font-size: 14px;
+}
+
+h2 {
+  margin-top: 0;
+  margin-bottom: 0.75em;
+  line-height: 24px;
+  font-size: 16px;
   font-weight: 600;
   color: #58A6FF;
 }
@@ -70,7 +75,7 @@ tr {
 
 <table>
 <thead><tr style="transform: translateX(0);">
-<th colspan="2">{{ name }}'s GitHub Statistics</th>
+<th colspan="2"><h2>My GitHub Statistics</h2></th>
 </tr></thead>
 <tbody>
 
