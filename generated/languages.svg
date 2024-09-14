@@ -101,7 +101,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #f1e05a;width: 68.072%;" class="progress-item"></span><span style="background-color: #3d8137;width: 10.763%;" class="progress-item"></span><span style="background-color: #563d7c;width: 9.420%;" class="progress-item"></span><span style="background-color: #ff5a03;width: 3.554%;" class="progress-item"></span><span style="background-color: #3572A5;width: 3.317%;" class="progress-item"></span><span style="background-color: #3178c6;width: 2.683%;" class="progress-item"></span><span style="background-color: #e34c26;width: 2.177%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.014%;" class="progress-item"></span>
+<span style="background-color: #f1e05a;width: 68.141%;" class="progress-item"></span><span style="background-color: #3d8137;width: 10.693%;" class="progress-item"></span><span style="background-color: #563d7c;width: 9.421%;" class="progress-item"></span><span style="background-color: #ff5a03;width: 3.554%;" class="progress-item"></span><span style="background-color: #3572A5;width: 3.317%;" class="progress-item"></span><span style="background-color: #3178c6;width: 2.683%;" class="progress-item"></span><span style="background-color: #e34c26;width: 2.177%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.014%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -113,7 +113,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">JavaScript</span>
-<span class="percent">68.07%</span>
+<span class="percent">68.14%</span>
 </li>
 
 
@@ -122,7 +122,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Nunjucks</span>
-<span class="percent">10.76%</span>
+<span class="percent">10.69%</span>
 </li>
 
 
